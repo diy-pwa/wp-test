@@ -1,0 +1,33 @@
+<?xml?>
+<urlset>
+    <url>
+        <loc>
+            https://diy-pwa.github.io/wp-test/hello-world/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://diy-pwa.github.io/wp-test/a-test/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://diy-pwa.github.io/wp-test/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://diy-pwa.github.io/wp-test/sample-page/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://diy-pwa.github.io/wp-test/category/uncategorized/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://diy-pwa.github.io/wp-test/author/rhildred/
+        </loc>
+    </url>
+</urlset>
